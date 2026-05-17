@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-redis.
+
 # think-redis
 [![Build Status](https://travis-ci.org/thinkjs/think-redis.svg?branch=master)](https://travis-ci.org/thinkjs/think-redis)
 [![Coverage Status](https://coveralls.io/repos/github/thinkjs/think-redis/badge.svg?branch=master)](https://coveralls.io/github/thinkjs/think-redis?branch=master)
